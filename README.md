@@ -24,8 +24,7 @@ Passionate Unity Game Developer with experience shipping 10+ mobile and WebGL ti
   * **WebGL Build & Compression Optimization:** Configured Gzip/Brotli compression, texture downscaling, and AssetBundle/memory management to ensure fast browser loading times and stable FPS.
   * **Responsive Canvas & Aspect Ratio Scaling:** Set up dynamic WebGL templates so the game view scales cleanly across different browser window sizes and resolutions.
   * **Local Server Testing & Debugging:** Tested builds via local Node.js/HTTP servers to resolve browser audio-unlock restrictions, frame drops, and WebGL runtime errors.
-* **Play Link:** [Play in Browser](https://YOUR_WEBGL_LINK_HERE)
-
+* **Play Link:** (https://play.google.com/store/apps/details?id=com.pb.cash.security.simulator&gl=us)
 ### 3. Cash Wash Simulator
 
 * **Platform:** WebGL (Browser-Based Simulation)
@@ -35,7 +34,7 @@ Passionate Unity Game Developer with experience shipping 10+ mobile and WebGL ti
   * **Interactive Washing & Dirt-Removal Mechanics:** Tuned water pressure physics, surface cleaning shaders/masks, and task completion triggers for responsive gameplay.
   * **Browser-Ready UI Overhaul:** Redesigned HUD elements, tool selection bars, and progress indicators to fit wide-screen desktop aspect ratios cleanly.
   * **Web Performance & Memory Tuning:** Reduced draw calls, compressed textures, and optimized garbage collection to prevent browser lag and maintain steady frame rates during heavy particle effects.
-* **Play Link:** [Play Cash Wash Simulator](https://YOUR_WEBGL_LINK_HERE)
+* **Play Link:** [Play Cash Wash Simulator](soon will be live )
 ---
 
 ## 🛠️ Core Skills
