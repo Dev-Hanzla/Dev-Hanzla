@@ -10,7 +10,7 @@ Passionate Unity Game Developer with experience shipping 10+ mobile and WebGL ti
 ### 1. Wheelie Master
 * **Platform:** Android (Google Play Store)
 * **My Role:** Built from scratch — implemented motorcycle physics, garage system, custom UI panels, and daily rewards.
-* **Play Link:** [View on Google Play Store](https://play.google.com/store/apps/details?id=YOUR_LINK_HERE)
+* **Play Link:** [View on Google Play Store](https://play.google.com/store/apps/details?id=com.gh.wheelie.rush.moto.ride.game)
 
 ### 2. Cash Security Simulator
 * **Platform:** Android / 3D Simulation
